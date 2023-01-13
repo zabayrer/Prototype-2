@@ -358,6 +358,7 @@
 "Assets/Scripts/moveForward.cs"
 "Assets/Scripts/moveForwardAnimals.cs"
 "Assets/Scripts/playerController.cs"
+"Assets/Scripts/spawnManager.cs"
 -langversion:9.0
 
 /deterministic
